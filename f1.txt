@@ -1,0 +1,6 @@
+total 4
+drwxr-xr-x 1 ivan rodri 197121 0 Aug  2 19:53 ./
+drwxr-xr-x 1 ivan rodri 197121 0 Aug  2 18:23 ../
+drwxr-xr-x 1 ivan rodri 197121 0 Aug  2 19:28 .git/
+-rw-r--r-- 1 ivan rodri 197121 0 Aug  2 19:53 f1.txt
+drwxr-xr-x 1 ivan rodri 197121 0 Aug  2 18:22 git2/
